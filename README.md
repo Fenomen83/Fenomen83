@@ -15,7 +15,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 - 💬 Ask me about **Java , Swift, Python, C#, Kotlin, Flutter**
 
-- 📧 How to reach me? **Connect to me via Email [Arda Dizdaroğlu](mailto:metinhaliloglu@hotmail.com)**
+- 📧 How to reach me? **Connect to me via Email [Metin Haliloğlu](mailto:metinhaliloglu@hotmail.com)**
 
 - ⚡ Fun fact: **I love to listen to music**
 
