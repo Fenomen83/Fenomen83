@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/metin-h-755ba665)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fenomen83)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fenomen83.fenomen83)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=metin-haliloglu.metin-haliloglu)
 
 I am an IOS Developer & Android Developer & Flutter Developer & Python Developer & C# Developer & Computer Engineer. 
 
@@ -21,5 +21,5 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 📈 **My GitHub Stats:**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenomen83&layout=compact&theme=midnight-purple" alt="fenomen83" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fenomen83&show_icons=true&theme=midnight-purple" alt="fenomen83" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenomen83&layout=compact&theme=midnight-purple" alt="metin-haliloglu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fenomen83&show_icons=true&theme=midnight-purple" alt="metin-haliloglu" /></p>
