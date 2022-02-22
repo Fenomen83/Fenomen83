@@ -21,5 +21,5 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 📈 **My GitHub Stats:**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenomen83&layout=compact&theme=midnight-purple" alt="metin-haliloglu" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fenomen83&show_icons=true&theme=midnight-purple" alt="metin-haliloglu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metin-haliloglu&layout=compact&theme=midnight-purple" alt="metin-haliloglu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metin-haliloglu&show_icons=true&theme=midnight-purple" alt="metin-haliloglu" /></p>
